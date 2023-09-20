@@ -1,0 +1,35 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Prompt user for two numbers
+	add the two numbers entered together (number 1 + number 2)
+	print the result
+		"The sum of your two number is (the result from above)."
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Prompt user for number
+	if the number entered is divisable by two then print "The number your entered is even."
+	if the number entered is not divisable by two then print "The number you entered is odd."
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) Prompt user for 5 different numbers
+b) add the 5 numbers togther
+		divide the sum by 5
+c) rank the 5 numbers from smallest to largest
+	assign the smallest number the rank of 1
+	assign the largest number the rank of 5
+d) Print the result of step b (a+b+c+d+e/5)
+		"The average of your numbers is (result from b)"
+	Print the result of step c
+		"The smallest number you entered is (number with rank of 1)"
+		"The largest number you entered is (number with rank of 5)"
+	
+
+-- END --
